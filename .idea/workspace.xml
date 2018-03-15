@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ebe122-993d-4d5a-b6fd-ff2bb5887870" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/select_exercises.sql" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/select_exercises.sql" afterPath="$PROJECT_DIR$/select_exercises.sql" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,8 +36,8 @@
       <file leaf-file-name="select_exercises.sql" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/select_exercises.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="120">
+              <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -243,12 +242,12 @@
       <updated>1521083371719</updated>
       <workItem from="1521083372964" duration="1860000" />
       <workItem from="1521122935455" duration="16000" />
-      <workItem from="1521123551394" duration="9859000" />
+      <workItem from="1521123551394" duration="10387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11735000" />
+    <option name="totallyTimeSpent" value="12263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1680" height="988" extended-state="6" />
@@ -352,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/select_exercises.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="120">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding />
         </state>
       </provider>

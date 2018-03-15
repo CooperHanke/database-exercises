@@ -3,7 +3,7 @@ USE codeup_test_db;
 SELECT 'Displaying all entries from ''albums''' AS 'Info';
 SELECT * FROM albums;
 SELECT 'Albums released before 1980' AS 'Info';
-SELECT * FROM albums WHERE release_year < 1980;
+SELECT * FROM albums WHERE release_date < 1980;
 SELECT 'Year the album Sgt Pepper''s Lonely Hearts Club Band was released' AS 'Info';
 SELECT release_date FROM albums WHERE name = 'Sgt. Pepper''s Lonely Hearts Club Band';
 SELECT 'Genre for the album ''Nevermind''' AS 'Info';

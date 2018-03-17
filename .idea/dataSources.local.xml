@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="dataSourceStorageLocal">
-    <data-source name="@localhost" uuid="0d457a0a-9487-4cab-ac6d-c09e5451a2c0">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
-      <introspection-schemas>*:codeup_test_db,employees</introspection-schemas>
-    </data-source>
-  </component>
-</project>

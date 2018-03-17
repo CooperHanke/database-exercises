@@ -8,5 +8,5 @@ SELECT * FROM employees WHERE last_name LIKE '%q%';
 SELECT * FROM employees WHERE last_name LIKE 'E%' OR last_name LIKE '%E' ORDER BY emp_no DESC ;
 SELECT * FROM employees WHERE last_name LIKE 'E%' AND last_name LIKE '%E';
 SELECT * FROM employees WHERE birth_date LIKE '%-12-25' AND (hire_date BETWEEN '1990-01-01' AND '2000-01-01')
-ORDER BY birth_date ASC, hire_date DESC;
+ORDER BY birth_date ASC, hire_date DESC LIMIT 5 OFFSET 45;
 SELECT * FROM employees WHERE last_name LIKE '%q%' AND last_name NOT LIKE '%qu%';
